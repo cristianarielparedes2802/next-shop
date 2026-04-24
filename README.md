@@ -8,9 +8,9 @@ A fully functional e-commerce demo built with the modern Next.js App Router stac
 
 ## Screenshots
 
-| Catalog | Product Detail | Cart | Checkout Success |
-|---|---|---|---|
-| ![Catalog](https://next-shop-xi-olive.vercel.app/opengraph-image) | Product page with stock status and add-to-cart | Order summary with quantity controls | Stripe hosted checkout and confirmation page |
+![Product Catalog](screenshots/products.png)
+
+![Cart](screenshots/cart.png)
 
 > Use test card `4242 4242 4242 4242` · any future date · any CVC to complete a purchase.
 
